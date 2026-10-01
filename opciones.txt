@@ -1,1 +1,1 @@
-Opciones principales: En este archivo se acararán cómo se comportará la aplicación en cada opción del sitio web.
+revisado
