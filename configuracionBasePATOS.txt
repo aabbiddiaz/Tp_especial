@@ -1,1 +1,1 @@
-revisado
+Este es un archivo de configuración de conexión a base de datos.
